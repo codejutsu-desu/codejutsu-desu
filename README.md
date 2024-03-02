@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mrimmoys@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/u/2/d/14L_-BaUUMnCJcWYWzvlmtg_v5kVxFeel/view?usp=sharing](https://drive.google.com/file/u/2/d/14L_-BaUUMnCJcWYWzvlmtg_v5kVxFeel/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/18tzVnDgkKIVb1K9yvqGPq0SQInjPq8UQ/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
