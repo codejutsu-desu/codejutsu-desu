@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MH Shimanto</h1>
-<h3 align="center">An Linguistic and programming enthusiast who is committed to continuous personal and professional growth, with a strong emphasis on learning and staying current in the ever-evolving tech landscape. I possess excellent collaborative, analytical, and creative skills along with my Full Stack Web Development Expertise. I am proficient in JavaScript technology stacks.</h3>
+<h3 align="center">Programming enthusiastn and I am proficient in JavaScript technology stacks.</h3>
 
 - 🔭 I’m currently working on **Building Next js Applications**
 
